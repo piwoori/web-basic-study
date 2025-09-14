@@ -23,6 +23,14 @@
 - `style:` 포맷/스타일(코드 로직 무변화)  
 - `refactor:` 리팩터링  
 
+## 커밋 예시
+- `feat(01-html-basics):` 자기소개 페이지 작성
+- `style(02-css-basics):` 박스 모델 스타일 추가
+- `feat(03-css-layout):` Flex/Grid 레이아웃 실습
+- `feat(04-js-fundamentals):` 숫자 맞추기 게임 구현
+- `docs(05-js-dom-events):` notes.md 요약 추가
+- `fix(06-js-async-fetch):` API 호출 오류 수정
+
 ## 환경
 - 브라우저만으로 실행 가능한 정적 파일(HTML/CSS/JS)
 - 확장 실습 시 Live Server(또는 Vite) 사용 가능
